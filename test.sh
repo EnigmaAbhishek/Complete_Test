@@ -1,0 +1,2 @@
+
+[ -n "$(ls /home/ajain/AlphaGrep/ProdServerScripts/common/bash_scripts/*.txt 2>/dev/null)" ] && cp /home/ajain/AlphaGrep/ProdServerScripts/common/bash_scripts/*.txt /home/ajain/AlphaGrep/Complete_Test/
